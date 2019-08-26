@@ -1,0 +1,23 @@
+2019-08-26T10:35:47.233Z - info:   [27016] *** FOLDER: c:\Users\Patrik\Desktop\BlogDist\blog-dist ***
+2019-08-26T10:35:47.234Z - info:   [27016] AzureReposVSCode/1.149.2 (VSCode 1.37.1; Windows_NT 10.0.17134; Node 10.11.0)
+2019-08-26T10:35:47.234Z - debug:  [27016] Looking for an External Context at c:\Users\Patrik\Desktop\BlogDist\blog-dist
+2019-08-26T10:35:47.234Z - debug:  [27016] No External Context at c:\Users\Patrik\Desktop\BlogDist\blog-dist
+2019-08-26T10:35:47.246Z - debug:  [27016] Looking for TFVC repository at c:\Users\Patrik\Desktop\BlogDist\blog-dist
+2019-08-26T10:35:47.246Z - debug:  [27016] TFVC Creating Tfvc object with localPath='undefined'
+2019-08-26T10:35:47.246Z - debug:  [27016] Using TFS proxy: 
+2019-08-26T10:35:47.246Z - debug:  [27016] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2019-08-26T10:35:47.247Z - debug:  [27016] TFVC Repository created with repositoryRootFolder='c:\Users\Patrik\Desktop\BlogDist\blog-dist'
+2019-08-26T10:35:47.247Z - debug:  [27016] TFVC Repository.CheckVersion
+2019-08-26T10:35:47.247Z - debug:  [27016] TFVC: tf add -noprompt -?
+2019-08-26T10:35:47.252Z - debug:  [27016] TFVC: spawned new process (duration: 5ms)
+2019-08-26T10:35:47.260Z - debug:  [27016] TFVC: spawned new process (duration: 7ms)
+2019-08-26T10:35:48.890Z - debug:  [27016] TFVC: add exit code: 0 (duration: 1643ms)
+2019-08-26T10:35:48.890Z - debug:  [27016] TFVC Minimum required version: 14.102.0
+2019-08-26T10:35:48.890Z - debug:  [27016] TFVC (TF.exe, TF.cmd) version: 15.129.28604.1
+2019-08-26T10:35:48.891Z - debug:  [27016] TFVC Repository.FindWorkspace with localPath='c:\Users\Patrik\Desktop\BlogDist\blog-dist'
+2019-08-26T10:35:48.891Z - debug:  [27016] TFVC: tf workfold -noprompt ********
+2019-08-26T10:35:48.896Z - debug:  [27016] TFVC: spawned new process (duration: 5ms)
+2019-08-26T10:35:48.954Z - debug:  [27016] TFVC: workfold exit code: 100 (duration: 63ms)
+2019-08-26T10:35:48.955Z - debug:  [27016] TFVC errors (via stderr): Unable to determine the source control server.
+
+2019-08-26T10:35:48.955Z - error:  [27016] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
