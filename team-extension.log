@@ -90,3 +90,26 @@
 2019-08-27T18:43:40.731Z - debug:  [18208] TFVC errors (via stderr): Unable to determine the source control server.
 
 2019-08-27T18:43:40.731Z - error:  [18208] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
+2019-08-27T19:58:06.732Z - info:   [01364] *** FOLDER: c:\Users\Patrik\Desktop\BlogDist\blog-dist ***
+2019-08-27T19:58:06.733Z - info:   [01364] AzureReposVSCode/1.149.2 (VSCode 1.37.1; Windows_NT 10.0.17134; Node 10.11.0)
+2019-08-27T19:58:06.733Z - debug:  [01364] Looking for an External Context at c:\Users\Patrik\Desktop\BlogDist\blog-dist
+2019-08-27T19:58:06.733Z - debug:  [01364] No External Context at c:\Users\Patrik\Desktop\BlogDist\blog-dist
+2019-08-27T19:58:06.739Z - debug:  [01364] Looking for TFVC repository at c:\Users\Patrik\Desktop\BlogDist\blog-dist
+2019-08-27T19:58:06.739Z - debug:  [01364] TFVC Creating Tfvc object with localPath='undefined'
+2019-08-27T19:58:06.739Z - debug:  [01364] Using TFS proxy: 
+2019-08-27T19:58:06.739Z - debug:  [01364] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2019-08-27T19:58:06.740Z - debug:  [01364] TFVC Repository created with repositoryRootFolder='c:\Users\Patrik\Desktop\BlogDist\blog-dist'
+2019-08-27T19:58:06.740Z - debug:  [01364] TFVC Repository.CheckVersion
+2019-08-27T19:58:06.740Z - debug:  [01364] TFVC: tf add -noprompt -?
+2019-08-27T19:58:06.745Z - debug:  [01364] TFVC: spawned new process (duration: 5ms)
+2019-08-27T19:58:06.753Z - debug:  [01364] TFVC: spawned new process (duration: 7ms)
+2019-08-27T19:58:08.438Z - debug:  [01364] TFVC: add exit code: 0 (duration: 1698ms)
+2019-08-27T19:58:08.438Z - debug:  [01364] TFVC Minimum required version: 14.102.0
+2019-08-27T19:58:08.438Z - debug:  [01364] TFVC (TF.exe, TF.cmd) version: 15.129.28604.1
+2019-08-27T19:58:08.438Z - debug:  [01364] TFVC Repository.FindWorkspace with localPath='c:\Users\Patrik\Desktop\BlogDist\blog-dist'
+2019-08-27T19:58:08.438Z - debug:  [01364] TFVC: tf workfold -noprompt ********
+2019-08-27T19:58:08.444Z - debug:  [01364] TFVC: spawned new process (duration: 5ms)
+2019-08-27T19:58:08.513Z - debug:  [01364] TFVC: workfold exit code: 100 (duration: 74ms)
+2019-08-27T19:58:08.514Z - debug:  [01364] TFVC errors (via stderr): Unable to determine the source control server.
+
+2019-08-27T19:58:08.514Z - error:  [01364] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
